@@ -20,7 +20,7 @@ public class ScreenShotPractice {
     // TEST COMMENT
 
     //test commit 1
-
+    //test commit 2
     @BeforeTest
     public void startBrowser() {
         System.setProperty("webdriver.chrome.driver", "src/main/resources/chromedriver.exe");
