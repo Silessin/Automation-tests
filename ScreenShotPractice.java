@@ -17,6 +17,8 @@ public class ScreenShotPractice {
 
     public static WebDriver driver;
 
+    // TEST COMMENT
+
     @BeforeTest
     public void startBrowser() {
         System.setProperty("webdriver.chrome.driver", "src/main/resources/chromedriver.exe");
