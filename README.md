@@ -1,3 +1,4 @@
-# Automation-tests
+# Automation Tests
 
-# Here I upload all of the code I created while learning Test Automation in Selenium Java
+## Overview
+This repository contains automated tests for various applications using SELENIUM
